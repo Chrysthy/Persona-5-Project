@@ -4,7 +4,7 @@ Projeto personalizado baseado no jogo Persona 5, realizado durante o evento 'Sem
 
 <br>
 
-<p> <img height="500em" src="" alt="site persona 5"> </p>
+<img src="src/images/persona-5-project.gif" alt="">
 
 <h2> 🛠️ Ferramentas </h2>
 
