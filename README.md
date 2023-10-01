@@ -2,7 +2,9 @@
 
 Projeto personalizado baseado no jogo Persona 5, realizado durante o evento 'Semana do Zero ao Programador Contratado', em colaboração com os gêmeos do [DevQuest - Dev em Dobro](https://github.com/devemdobro).
 
+<strong>⚠️ Aperte o play e ouça uma soundtrack to jogo enquanto navega pelos personagens! </strong>
 <br>
+
 
 <img src="src/images/persona-5-project.gif" alt="">
 
