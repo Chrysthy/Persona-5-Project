@@ -20,7 +20,7 @@ Projeto personalizado baseado no jogo Persona 5, realizado durante o evento 'Sem
 
 <h2>Certificado</h2>
 
-<p> <img height="500em" src="" alt="Certificado"> </p>
+![certificado-dev-em-dobro](https://github.com/Chrysthy/Persona-5-Project/assets/126017173/51879fc4-37f2-44c9-b2ea-133f1bb8d08d)
 
 
 <br>
