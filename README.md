@@ -11,6 +11,7 @@
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-certificate">Certificate</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#support">Support</a>  
@@ -41,7 +42,8 @@
 
 <br>
 
-<h2>Certificado</h2>
+
+## 📌 Certificate
 
 ![certificado-dev-em-dobro](https://github.com/Chrysthy/Persona-5-Project/assets/126017173/51879fc4-37f2-44c9-b2ea-133f1bb8d08d)
 
