@@ -32,11 +32,12 @@
 
 <br>
 
-<h2> 🛠️ Ferramentas </h2>
+## 🛠 Technologies
 
 * HTML 5
 * CSS 3
 * JavaScript
+* Git e GitHub
 
 <br>
 
