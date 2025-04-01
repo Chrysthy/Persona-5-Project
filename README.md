@@ -1,6 +1,7 @@
-# Persona 5 Project
+<h1 align="center">Persona 5 Project</h1> 
 
-Projeto personalizado baseado no jogo Persona 5, realizado durante o evento 'Semana do Zero ao Programador Contratado', em colaboração com os gêmeos do [DevQuest - Dev em Dobro](https://github.com/devemdobro).
+<p align="center">Projeto personalizado baseado no jogo Persona 5, realizado durante o evento 'Semana do Zero ao Programador Contratado', em colaboração com os gêmeos do [DevQuest - Dev em Dobro](https://github.com/devemdobro).</p>
+
 
 <strong>⚠️ Aperte o play e ouça uma soundtrack do jogo enquanto navega pelos personagens! </strong>
 <br>
