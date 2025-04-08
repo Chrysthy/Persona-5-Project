@@ -1,7 +1,7 @@
 <h1 align="center">Persona 5 Project</h1> 
 
 <p align="center">
-  Projeto personalizado baseado no jogo Persona 5, realizado durante o evento *Semana do Zero ao Programador Contratado*, em colaboração com os gêmeos do <a href="https://github.com/devemdobro">DevQuest - Dev em Dobro</a>.
+  Projeto personalizado baseado no jogo Persona 5, realizado durante o evento Semana do Zero ao Programador Contratado, em colaboração com os gêmeos do <a href="https://github.com/devemdobro">DevQuest - Dev em Dobro</a>.
 </p>
 
 
